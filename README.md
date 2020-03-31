@@ -2,5 +2,4 @@
 
 ## Contributors
 
-Thanks to:
-Felix Wippich
+Thanks to: Felix
