@@ -3,3 +3,5 @@
 ## Contributors
 
 Thanks to:
+
+- Wolfgang Siegert
