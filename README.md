@@ -2,4 +2,4 @@
 
 ## Contributors
 
-Thanks to: Lotte
+Thanks to: Gabriel Lotte
