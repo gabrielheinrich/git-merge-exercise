@@ -2,4 +2,6 @@
 
 ## Contributors
 
-Thanks to: Felix, Gabriel, Inga, jet beluga, Lotte, Tom, Vera
+<<<<<<< HEAD
+Thanks to: Aleksandra, Felix, Gabriel, Inga, jet beluga, Lotte, Tom, Vera
+=======
