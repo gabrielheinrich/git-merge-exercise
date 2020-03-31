@@ -2,4 +2,4 @@
 
 ## Contributors
 
-Thanks to: Aleksanda jet beluga Wolfgang Siegert
+Thanks to: Aleksanda jet beluga Chaz Wolfgang Siegert
