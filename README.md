@@ -2,4 +2,6 @@
 
 ## Contributors
 
-Thanks to: Inga
+<<<<<<< HEAD
+Thanks to: Inga, Gabriel
+=======
