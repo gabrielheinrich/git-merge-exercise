@@ -3,3 +3,4 @@
 ## Contributors
 
 Thanks to:
+Felix Wippich
