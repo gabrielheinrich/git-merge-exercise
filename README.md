@@ -4,6 +4,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Thanks to: Gabriel Lotte
 =======
 Thanks to: Gabriela
@@ -11,3 +12,6 @@ Thanks to: Gabriela
 =======
 Thanks to: Wolfgang Siegert
 >>>>>>> origin/Wolfgang-Siegert
+=======
+Thanks to: Chaz
+>>>>>>> origin/chaz
