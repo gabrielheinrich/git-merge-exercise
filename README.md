@@ -3,5 +3,4 @@
 ## Contributors
 
 <<<<<<< HEAD
-Thanks to: Inga, Gabriel
-=======
+Thanks to: Felix, Inga, Gabriel
