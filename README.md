@@ -2,6 +2,4 @@
 
 ## Contributors
 
-Thanks to:
-
-- Wolfgang Siegert
+Thanks to: Wolfgang Siegert
