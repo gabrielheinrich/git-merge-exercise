@@ -2,8 +2,4 @@
 
 ## Contributors
 
-<<<<<<< HEAD
-Thanks to: Chaz, Felix, Inga, Lotte, Tom, Vera
-=======
-Thanks to: Aleksanda
->>>>>>> origin/aleksandra
+Thanks to: Aleksandra, Chaz, Gabriel, Felix, Inga, Lotte, Tom, Vera
