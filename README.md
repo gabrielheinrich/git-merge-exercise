@@ -2,4 +2,4 @@
 
 ## Contributors
 
-Thanks to: Chaz Gagne
+Thanks to: Chaz
