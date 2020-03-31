@@ -2,5 +2,4 @@
 
 ## Contributors
 
-Thanks to:
-Tom Levin
+Thanks to: Tom
