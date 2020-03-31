@@ -2,4 +2,4 @@
 
 ## Contributors
 
-Thanks to: Aleksanda jet beluga Chaz Christina Felix Gabriel Gabriela Wolfgang Siegert
+Thanks to: Aleksanda jet beluga Chaz Christina Felix Gabriel Gabriela Inga Wolfgang Siegert
