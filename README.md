@@ -2,4 +2,8 @@
 
 ## Contributors
 
+<<<<<<< HEAD
 Thanks to: Felix, Tom
+=======
+Thanks to: Vera
+>>>>>>> origin/vera
