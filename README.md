@@ -2,4 +2,4 @@
 
 ## Contributors
 
-Thanks to:
+Thanks to: Felix, Gabriel, Inga
