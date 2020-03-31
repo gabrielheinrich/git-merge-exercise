@@ -2,4 +2,4 @@
 
 ## Contributors
 
-Thanks to: Felix, Gabriel, Inga
+Thanks to: Aleksandra, Chaz, Christina, Felix, Gabriel, Gabriela, Inga, Lotte, Moritz, Tom, Vera, Wolfgang.
