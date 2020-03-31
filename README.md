@@ -2,6 +2,4 @@
 
 ## Contributors
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Thanks to: Felix, Inga, Gabriel, Vera
+Thanks to: Felix, Inga, Gabriel, Tom, Vera
